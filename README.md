@@ -1,4 +1,4 @@
-jt# AI-Powered Handwriting Recognition
+# AI-Powered Handwriting Recognition
 
 This project implements an AI-powered handwriting recognition system using the IAM Handwriting Database. It uses a CRNN (CNN + RNN) model to convert handwritten images into digital text.
 
