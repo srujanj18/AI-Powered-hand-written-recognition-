@@ -1,0 +1,11 @@
+torch>=1.9.0
+torchvision>=0.10.0
+opencv-python
+Pillow
+numpy
+flask
+editdistance
+matplotlib
+scikit-learn
+requests
+kagglehub
